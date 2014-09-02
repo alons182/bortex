@@ -139,7 +139,7 @@ footer .copyright{font-size:10px;line-height:2.3;color:#ccc;position:absolute;bo
 .b2j_contact .controls{font-size:18px;line-height:1.9em;color:#000}
 .b2j_contact h2{background:#1175ba}
 .b2j_contact .control-label{color:#000}
-.b2j_contact .btn-success{background:#8ac543 !important}
+.b2j_contact .btn-success{background:#1175ba !important}
 .wrapper{max-width:87.5em;position:relative;padding-top:.3em;margin-right:auto;margin-left:auto;overflow:hidden}
 .page{min-height:100%;margin:0 auto;position:relative;padding-bottom:30em;background-color:#fff}
 @media only screen and (min-width:  480px){.list-items .item,.list-items li{width:33.33%}
