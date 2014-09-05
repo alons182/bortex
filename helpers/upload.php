@@ -85,7 +85,7 @@ $fileSize = $_FILES['uploadBtn']['size'];
 		   $data = array('message' => 'Error al subir el archivo. Verifique que no sobrepase el limite de 64mb');
 		}
     }else
-   		 $data = array('message' => 'Error Archivo Muy grande');
+   		 $data = array('message' => 'Error Archivo Muy grande o tipo invalido');
 	
 	
 
