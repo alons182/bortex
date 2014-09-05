@@ -4,12 +4,28 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-align"
+			],
+			[
 				"mar",
-				"margin-top"
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding"
 			],
 			[
 				"bor",
-				"border-radius"
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"op",
+				"opacity"
 			],
 			[
 				"pa",
@@ -18,10 +34,6 @@
 			[
 				"lin",
 				"link_certificate"
-			],
-			[
-				"tex",
-				"text-decoration"
 			],
 			[
 				"po",
@@ -502,18 +514,6 @@
 			[
 				"line",
 				"line-height"
-			],
-			[
-				"att",
-				"attr	.attr() - single"
-			],
-			[
-				"text",
-				"text-transform"
-			],
-			[
-				"product",
-				"product-title-display"
 			]
 		]
 	},
@@ -680,15 +680,36 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/bortex",
-		"/C/xampp/htdocs/bortex/templates"
+		"/C/xampp/htdocs/bortex/templates",
+		"/C/xampp/htdocs/bortex/templates/bortex",
+		"/C/xampp/htdocs/bortex/templates/bortex/js",
+		"/C/xampp/htdocs/bortex/templates/bortex/stylus"
 	],
 	"file_history":
 	[
+		"/C/xampp/Mail Sent to Local Server/2014-09-01 16.51.35,275.eml",
+		"/C/xampp/htdocs/bortex/templates/bortex/js/main.js",
+		"/C/xampp/htdocs/bortex/helpers/upload.php",
+		"/D/template bortex/upload.html",
 		"/D/template bortex/index.html",
+		"/C/xampp/htdocs/bortex/templates/bortex/stylus/responsive.styl",
+		"/D/template bortex/product.html",
+		"/C/xampp/htdocs/bortex/templates/bortex/index.php",
+		"/D/Documents/dumps/bortex.sql",
+		"/C/xampp/htdocs/bortex/.htaccess",
+		"/C/xampp/htdocs/bortex/templates/bortex/templateDetails.xml",
+		"/C/xampp/htdocs/bortex/templates/bortex/stylus/main.styl",
+		"/C/xampp/htdocs/bortex/templates/beez3/javascript/respond.js",
+		"/C/xampp/htdocs/bortex/media/jui/less/responsive.less",
+		"/C/xampp/htdocs/bortex/libraries/legacy/response/response.php",
+		"/C/xampp/htdocs/bortex/libraries/joomla/http/response.php",
+		"/C/xampp/htdocs/bortex/administrator/components/com_joomlaupdate/restore.php",
+		"/C/xampp/htdocs/bortex/README.txt",
+		"/C/xampp/htdocs/bortex/components/com_mailto/mailto.php",
+		"/C/xampp/htdocs/bortex/modules/mod_articles_archive/mod_articles_archive.php",
+		"/C/xampp/htdocs/bortex/components/com_contact/metadata.xml",
 		"/D/template bortex/template/templateDetails.xml",
 		"/D/template bortex/template/index.php",
-		"/C/xampp/htdocs/bortex/templates/bortex/index.php",
 		"/D/template bortex/template/js/main.js",
 		"/C/xampp/htdocs/bortex/data/products.json",
 		"/C/xampp/htdocs/bortex/stylus/main.styl",
@@ -793,26 +814,7 @@
 		"/C/xampp/htdocs/best-quality/cli/deletefiles.php",
 		"/C/xampp/htdocs/best-quality/modules/mod_articles_category/mod_articles_category.php",
 		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/mod_articles_categories.xml",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/mod_articles_categories.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_archive/mod_articles_archive.xml",
-		"/C/xampp/htdocs/best-quality/administrator/components/com_content/models/articles.php",
-		"/C/xampp/htdocs/best-quality/administrator/components/com_content/controllers/articles.php",
-		"/C/xampp/htdocs/best-quality/components/com_content/models/articles.php",
-		"/C/xampp/htdocs/best-quality/components/com_content/controllers/article.php",
-		"/C/xampp/htdocs/best-quality/libraries/framework/Joomla/Registry/AbstractRegistryFormat.php",
-		"/C/xampp/htdocs/best-quality/components/com_ajax/ajax.php",
-		"/C/xampp/htdocs/best-quality/components/com_fabrik/libs/googlemaps/clustermarker/ClusterMarker-uncompressed.js",
-		"/D/nestedset/app/controllers/PagesController.php",
-		"/D/Downloads/bootstrap/css/bootstrap.css",
-		"/C/xampp/htdocs/best-quality/templates/bestquality/css/bootstrap.min.css",
-		"/C/xampp/htdocs/best-quality/templates/bestquality/stylus/tables.styl",
-		"/D/Downloads/bootstrap (1)/js/bootstrap.js",
-		"/C/xampp/htdocs/best-quality/components/com_content/views/article/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/media/jui/less/responsive.less",
-		"/C/xampp/htdocs/best-quality/libraries/joomla/http/response.php",
-		"/C/xampp/htdocs/best-quality/components/com_fabrik/models/webservice/rest.php",
-		"/C/xampp/htdocs/best-quality/administrator/manifests/libraries/idna_convert.xml",
-		"/C/xampp/htdocs/best-quality/components/com_contact/helpers/icon.php"
+		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/mod_articles_categories.php"
 	],
 	"find":
 	{
@@ -830,6 +832,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"</span>",
+			"<span ",
+			"<span",
+			"</li>",
+			"<li>",
+			"\"img",
+			"img",
+			"</p>",
+			"<p>",
+			"p",
+			"/div",
+			"<div",
 			"menu",
 			"header",
 			"•	",
@@ -945,19 +959,7 @@
 			"add",
 			"has",
 			"width",
-			"require",
-			"requirejs",
-			"handlebars",
-			"cycle2",
-			"shadowbox",
-			"inview",
-			"list-unstyled",
-			"overflow-scroll",
-			"Fix validation errors and try again",
-			"RewriteCond",
-			"output",
-			"control-label",
-			"control-group"
+			"require"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1061,6 +1063,22 @@
 		"selected_items":
 		[
 			[
+				"resp",
+				"templates\\bortex\\stylus\\responsive.styl"
+			],
+			[
+				"main.js",
+				"templates\\bortex\\js\\main.js"
+			],
+			[
+				"respo",
+				"templates\\bortex\\stylus\\responsive.styl"
+			],
+			[
+				"main.st",
+				"templates\\bortex\\stylus\\main.styl"
+			],
+			[
 				"",
 				"templates\\bestquality\\stylus\\main.styl"
 			],
@@ -1093,19 +1111,11 @@
 				"templates\\bestquality\\stylus\\main.styl"
 			],
 			[
-				"main.js",
-				"templates\\bestquality\\js\\main.js"
-			],
-			[
 				"bestquaindex",
 				"templates\\bestquality\\index.php"
 			],
 			[
 				"res",
-				"templates\\bestquality\\stylus\\responsive.styl"
-			],
-			[
-				"resp",
 				"templates\\bestquality\\stylus\\responsive.styl"
 			],
 			[
@@ -1155,10 +1165,6 @@
 			[
 				"puravidainde",
 				"templates\\puravida\\index.php"
-			],
-			[
-				"respo",
-				"templates\\puravida\\stylus\\responsive.styl"
 			],
 			[
 				"icons",
@@ -1215,10 +1221,6 @@
 			[
 				"beezindex",
 				"templates/beez3/index.php"
-			],
-			[
-				"main.st",
-				"templates/puravida/stylus/main.styl"
 			],
 			[
 				"templates/puravida/s",
