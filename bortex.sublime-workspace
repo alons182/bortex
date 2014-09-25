@@ -680,16 +680,44 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/bortex/templates",
-		"/C/xampp/htdocs/bortex/templates/bortex",
-		"/C/xampp/htdocs/bortex/templates/bortex/js",
-		"/C/xampp/htdocs/bortex/templates/bortex/stylus"
+		"/C/xampp/htdocs/bortex"
 	],
 	"file_history":
 	[
-		"/C/xampp/Mail Sent to Local Server/2014-09-01 16.51.35,275.eml",
+		"/C/xampp/htdocs/bortex/libraries/platform.php",
+		"/C/xampp/htdocs/bortex/media/system/js/progressbar-uncompressed.js",
+		"/C/xampp/htdocs/bortex/libraries/phputf8/substr_replace.php",
+		"/C/xampp/htdocs/bortex/media/media/css/popup-imagelist_rtl.css",
+		"/C/xampp/htdocs/bortex/administrator/components/com_cache/views/purge/tmpl/default.php",
+		"/C/Program Files (x86)/Naruto Shippuden Ultimate Ninja Storm Revolution/NSUNSR.ini",
+		"/C/Users/Alonso/Desktop/codex.ini",
+		"/D/Documents/dumps/puravida.sql",
+		"/D/Documents/dumps/libermall.sql",
+		"/D/Downloads/Naruto Shippuden Ultimate Ninja Storm Revolution-CODEX/codex.nfo",
+		"/D/Downloads/Compressed/fullPage.js-master/examples/backgrounds.html",
+		"/D/Downloads/Compressed/fullPage.js-master/examples/examples.css",
+		"/D/Downloads/Compressed/fullPage.js-master/examples/apple.html",
+		"/D/configuration.php",
+		"/D/Downloads/dovecot.index.log",
+		"/D/dovecot-uidvalidity",
 		"/C/xampp/htdocs/bortex/templates/bortex/js/main.js",
 		"/C/xampp/htdocs/bortex/helpers/upload.php",
+		"/D/Downloads/grin.php",
+		"/D/passwd",
+		"/D/alonso",
+		"/D/passwd,v",
+		"/D/ventas",
+		"/D/lcastro",
+		"/D/Downloads/Ox.php",
+		"/D/.htaccess-1409617556",
+		"/D/.htaccess",
+		"/D/index.php",
+		"/C/xampp/htdocs/bortex/libraries/joomla/github/account.php",
+		"/C/xampp/htdocs/bortex/administrator/language/en-GB/en-GB.plg_authentication_cookie.ini",
+		"/C/xampp/htdocs/bortex/language/en-GB/en-GB.com_users.ini",
+		"/C/xampp/htdocs/bortex/github.php",
+		"/C/xampp/htdocs/bortex/components/com_contact/metadata.xml",
+		"/C/xampp/Mail Sent to Local Server/2014-09-01 16.51.35,275.eml",
 		"/D/template bortex/upload.html",
 		"/D/template bortex/index.html",
 		"/C/xampp/htdocs/bortex/templates/bortex/stylus/responsive.styl",
@@ -707,7 +735,6 @@
 		"/C/xampp/htdocs/bortex/README.txt",
 		"/C/xampp/htdocs/bortex/components/com_mailto/mailto.php",
 		"/C/xampp/htdocs/bortex/modules/mod_articles_archive/mod_articles_archive.php",
-		"/C/xampp/htdocs/bortex/components/com_contact/metadata.xml",
 		"/D/template bortex/template/templateDetails.xml",
 		"/D/template bortex/template/index.php",
 		"/D/template bortex/template/js/main.js",
@@ -784,37 +811,7 @@
 		"/D/template guanacaste/template/js/main.js",
 		"/C/xampp/htdocs/best-quality/templates/bestquality/html/mod_articles_news/_item.php",
 		"/C/xampp/htdocs/best-quality/modules/mod_articles_archive/mod_articles_archive.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_news/mod_articles_news.php",
-		"/C/xampp/htdocs/best-quality/administrator/includes/toolbar.php",
-		"/C/xampp/htdocs/best-quality/media/com_fabrik/js/lib/ace/src-min-noconflict/theme-eclipse.js",
-		"/C/xampp/htdocs/best-quality/plugins/fabrik_element/textarea/textarea-min.js",
-		"/C/xampp/htdocs/best-quality/templates/bestquality/css/colorbox.css",
-		"/D/Downloads/Compressed/colorbox-master/colorbox-master/example1/colorbox.css",
-		"/D/Downloads/Compressed/colorbox-master/colorbox-master/example5/index.html",
-		"/C/xampp/Mail Sent to Local Server/2014-08-18 17.25.00,432.eml",
-		"/D/Documents/base_datost.sql",
-		"/C/xampp/htdocs/best-quality/templates/bestquality/templateDetails.xml",
-		"/C/xampp/htdocs/best-quality/modules/mod_languages/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_footer/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_finder/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_feed/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_custom/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_breadcrumbs/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_banners/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_popular/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_news/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_latest/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_category/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_archive/tmpl/default.php",
-		"/C/xampp/htdocs/best-quality/layouts/joomla/searchtools/default.php",
-		"/C/xampp/htdocs/best-quality/media/com_joomlaupdate/default.js",
-		"/C/xampp/htdocs/best-quality/includes/defines.php",
-		"/C/xampp/htdocs/best-quality/administrator/modules/mod_menu/tmpl/default_enabled.php",
-		"/C/xampp/htdocs/best-quality/cli/deletefiles.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_category/mod_articles_category.php",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/mod_articles_categories.xml",
-		"/C/xampp/htdocs/best-quality/modules/mod_articles_categories/mod_articles_categories.php"
+		"/C/xampp/htdocs/best-quality/modules/mod_articles_news/mod_articles_news.php"
 	],
 	"find":
 	{
@@ -1014,7 +1011,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 40.0
+		"height": 39.0
 	},
 	"input":
 	{
@@ -1063,6 +1060,10 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"templates\\bortex\\js\\main.js"
+			],
+			[
 				"resp",
 				"templates\\bortex\\stylus\\responsive.styl"
 			],
@@ -1096,10 +1097,6 @@
 			],
 			[
 				"main.sty",
-				"templates\\bestquality\\stylus\\main.styl"
-			],
-			[
-				"main",
 				"templates\\bestquality\\stylus\\main.styl"
 			],
 			[
@@ -1510,6 +1507,14 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"pura",
+				"C:\\xampp\\htdocs\\puravida\\puravida.sublime-project"
+			],
+			[
+				"borte",
+				"C:\\xampp\\htdocs\\bortex\\bortex.sublime-project"
+			],
 			[
 				"",
 				"C:\\xampp\\htdocs\\guanacasteviajes\\guanacasteviajes.sublime-project"
