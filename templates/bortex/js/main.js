@@ -5,7 +5,8 @@
         $('#menu').toggle();
         $('header .social').toggle();
     });
-
+    
+    $('.gallery-link').colorbox({rel:'gal'});
     //INPUT FILE 
 	document.getElementById("uploadBtn").onchange = function () {
     document.getElementById("uploadFile").value = this.value;
@@ -111,6 +112,7 @@
 
 
 	});
+	
 
 	
 })(jQuery);

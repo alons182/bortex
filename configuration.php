@@ -31,7 +31,7 @@ class JConfig {
 	public $offset = 'UTC';
 	public $mailonline = '1';
 	public $mailer = 'mail';
-	public $mailfrom = 'alonso@avotz.com';
+	public $mailfrom = 'ventas@bortexcr.com';
 	public $fromname = 'Bortex';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';

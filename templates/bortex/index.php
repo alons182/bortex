@@ -23,6 +23,7 @@ $itemid   = $app->input->getCmd('Itemid', '');
 
 // Add Stylesheets
 //$doc->addStyleSheet('templates/'.$this->template.'/css/normalize.min.css');
+$doc->addStyleSheet('templates/'.$this->template.'/css/colorbox.css');
 $doc->addStyleSheet('templates/'.$this->template.'/css/main.css');
 
 
@@ -84,6 +85,7 @@ $doc->addStyleSheet('templates/'.$this->template.'/css/main.css');
         
         <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/js/vendor/jquery.validate.min.js"></script>
         <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/js/vendor/jquery.form.min.js"></script>
+        <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/js/vendor/jquery.colorbox-min.js"></script>
         <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/js/main.js"></script>
 
         
