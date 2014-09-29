@@ -57,11 +57,11 @@ $fileSize = $_FILES['uploadBtn']['size'];
 	
 
 			if($result=='ok'){
-				$emailTo = 'alonso@avotz.com';
+				$emailTo = 'ventas@bortexcr.com';
 			    $subject = 'Desde el formulario de Archivo del Sitio Bortex - Submitted message from '.$name;
 			    
 			    $body = '<html><body>';
-				$body .= '<img src="http://sandbox.avotz.com/bortex/img/logo_mail.png" alt="Bortex" />';
+				$body .= '<img src="http://www.bortexcr.com/templates/bortex/img/logo_mail.png" alt="Bortex" />';
 				$body .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 				$body .= "<tr style='background: #eee;'><td><strong>Nombre:</strong> </td><td>" . strip_tags($name) . "</td></tr>";
 				$body .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($email) . "</td></tr>";
