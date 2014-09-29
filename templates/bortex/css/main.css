@@ -91,8 +91,8 @@ footer .copyright{font-size:10px;line-height:2.3;color:#ccc;position:absolute;bo
 .list-items .item img,.list-items li img{width:100%;vertical-align:middle}
 .list-items .item a,.list-items li a{position:relative;top:0;left:0;width:100%;height:100%}
 .list-items .item .info,.list-items li .info{background-repeat:no-repeat;background-position:90% 85%;display:none;position:absolute;top:0;left:0;right:0;bottom:0;background-color:rgba(0,0,0,0.9);padding:1em;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;-ms-transition:all 0.5s ease;transition:all 0.5s ease;}
-.list-items .item .info h3,.list-items li .info h3{letter-spacing:.2em;text-transform:uppercase;color:#fff;position:relative;margin:0}
-.list-items .item .info p,.list-items li .info p{line-height:1.5em;color:#fff;font-size:13px;margin-bottom:25px}
+.list-items .item .info h3,.list-items li .info h3{letter-spacing:.2em;text-transform:uppercase;color:#fff;position:relative;margin-top:0;margin-bottom:15px}
+.list-items .item .info p,.list-items li .info p{line-height:1.5em;color:#fff;font-size:13px;margin-bottom:25px;display:none}
 .item_header{text-align:center;position:relative;}
 .item_header .icon-arrow-down{background-repeat:no-repeat;background-position:50% 55%;-webkit-border-radius:100%;border-radius:100%;padding:1em;background-color:#222;position:absolute;bottom:-1.3em;left:50%;margin-left:-1.5em;z-index:90;cursor:pointer;color:#fff;text-decoration:none;opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);-webkit-transition:all 0.5s ease-in;-moz-transition:all 0.5s ease-in;-o-transition:all 0.5s ease-in;-ms-transition:all 0.5s ease-in;transition:all 0.5s ease-in}
 .item_text{background-color:#fff;text-align:center;padding-top:6%;padding-bottom:6%;position:relative;}
@@ -163,6 +163,6 @@ footer .copyright{font-size:10px;line-height:2.3;color:#ccc;position:absolute;bo
 .list-items .item,.list-items li{width:25%;a}
 .list-items .item:hover .info,.list-items li:hover .info{display:inline-block}
 footer .services{font-size:14px}
-}@media only screen and (min-width:  1100px){.list-items .item .info p,.list-items li .info p{font-size:1em}
+}@media only screen and (min-width:  1100px){.list-items .item .info p,.list-items li .info p{font-size:1em;display:block}
 }@media only screen and (min-width:  1400px){.list-items .item .info,.list-items li .info{padding:2em}
 }
