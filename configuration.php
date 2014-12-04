@@ -54,8 +54,8 @@ class JConfig {
 	public $sef_suffix = '1';
 	public $unicodeslugs = '1';
 	public $feed_limit = '10';
-	public $log_path = 'C:\\xampp\\htdocs\\bortex/logs';
-	public $tmp_path = 'C:\\xampp\\htdocs\\bortex/tmp';
+	public $log_path = 'D:\\xampp\\htdocs\\bortex/logs';
+	public $tmp_path = 'D:\\xampp\\htdocs\\bortex/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $memcache_persist = '1';

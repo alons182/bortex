@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" client="site" method="upgrade">
+	<name>Advanced Facebook Like Box</name>
+	<author>Urmila Champatiray</author>
+	<creationDate>October, 2013</creationDate>
+	<copyright>Copyright (C) Joomla SEO Tips. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>admin@seohowto.net</authorEmail>
+	<authorUrl>http://seohowto.net/</authorUrl>
+	<version>1.1</version>
+	<description>Thanks for installing Advanced Facebook Like Box</description>
+	<files>
+		<folder>tmpl</folder>
+		<filename module="mod_advanced_facebook_likebox">mod_advanced_facebook_likebox.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_advanced_facebook_likebox.xml</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field 
+					name="href"
+					type="text"
+					default="http://www.facebook.com/Google"
+					label="Facebook Page URL" 
+					description="Facebook Page URL will be here" />
+				<field
+					name="width"
+					type="text"
+					default="300"
+					label="Width"
+					description="The width of the plugin in pixels." />
+				<field
+					name="height"
+					type="text"
+					default="370"
+					label="Height"
+					description="The height of the plugin in pixels." />
+				<field
+					name="background"
+					type="color"
+					default="#eeeeee"
+					label="Background Color"
+					description="Select Background Color" />
+				<field
+					name="colorscheme"
+					type="list"
+					default="light"
+					label="Color Scheme"
+					description="The color scheme used by the plugin. Can be light or dark">
+					<option value="light">Light</option>
+					<option value="dark">Dark</option>
+				</field>
+				<field
+					name="showFaces"
+					type="list"
+					default="true"
+					label="Show Friend Faces"
+					description="Show or Hide Facebook Friend Faces">
+					<option value="true">Show</option>
+					<option value="false">Hide</option>
+				</field>
+				<field
+					name="showHeader"
+					type="list"
+					default="true"
+					label="Header"
+					description="Show or Hide Header">
+					<option value="true">Show</option>
+					<option value="false">Hide</option>
+				</field>
+			</fieldset>
+			<fieldset name="advanced">
+				<field
+					name="moduleclass_sfx"
+					type="text"
+					default=""
+					label="Module Suffix"
+					description="Module Suffix" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
