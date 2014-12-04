@@ -52,7 +52,7 @@ $doc->addStyleSheet('templates/'.$this->template.'/css/main.css');
                         <jdoc:include type="modules" name="menu" style="none" />
                     </nav>
                     <div class="social">
-                        <a href="#" title="Facebook"><i class="icon icon-facebook"></i></a>
+                        <a href="https://www.facebook.com/bortexcostarica" title="Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
                         <a href="#" title="Twitter"><i class="icon icon-twitter"></i></a>
                     </div>
                 </div>
@@ -74,6 +74,9 @@ $doc->addStyleSheet('templates/'.$this->template.'/css/main.css');
                         <h5 class="empresas">Empresas Asociadas</h5>
                         <a href="http://www.guanaprint.com" title="Guanaprint" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/logo-guanaprint.png" alt="Guanaprint" /></a>
                         <a href="http://www.avotz.com" title="Avotz" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/logo-avotz.png" alt="Avotz Webworks" /></a>
+                    </div>
+                    <div class="fans">
+                        <jdoc:include type="modules" name="fans" style="none" />
                     </div>
 
                 </div>
