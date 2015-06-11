@@ -72,7 +72,7 @@ $doc->addStyleSheet('templates/'.$this->template.'/css/main.css');
                     </nav>
                     <div class="social">
                         <h5 class="empresas">Empresas Asociadas</h5>
-                        <a href="http://www.guanaprint.com" title="Guanaprint" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/logo-guanaprint.png" alt="Guanaprint" /></a>
+                        <!--<a href="http://www.guanaprint.com" title="Guanaprint" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/logo-guanaprint.png" alt="Guanaprint" /></a>-->
                         <a href="http://www.avotz.com" title="Avotz" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/logo-avotz.png" alt="Avotz Webworks" /></a>
                     </div>
                     <div class="fans">
